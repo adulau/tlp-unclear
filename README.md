@@ -1,3 +1,7 @@
+Traffic Light Protocol Special Interest Groups
+**Category: Informational** - *Amendment proposal to TLP 2.0*
+**Date**: *1st April 2023*
+
 # Amendment proposal to TLP 2.0
 
 # The need for TLP:UNCLEAR 
