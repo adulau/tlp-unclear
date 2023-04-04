@@ -1,5 +1,7 @@
-Traffic Light Protocol Special Interest Groups
+[Traffic Light Protocol Special Interest Groups](https://www.first.org/tlp/)
+
 **Category: Informational** - *Amendment proposal to TLP 2.0*
+
 **Date**: *1st April 2023*
 
 # Amendment proposal to TLP 2.0
