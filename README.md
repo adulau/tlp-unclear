@@ -20,7 +20,6 @@ It logically follows that the TLP standard[^1] should also embrace stochastics. 
 
 We therefore humbly propose the introduction of **TLP:UNCLEAR**.
 
-
 ### **1. Overview**
 
 This amendment shall describe a new Traffic Light Protocol tag: **TLP:UNCLEAR.**
@@ -37,7 +36,6 @@ Figure 1: TLP:UNCLEAR name tag sticker at FIRST conferences.
 ### **2. Motivation and use-cases**
 
 **TLP:UNCLEAR** label originally emerged in the anarcho-undo-clear-labellers fraction (“patient 0”). It was created in resistance to the renaming of **TLP:WHITE** to TLP:CLEAR. For this group the only logical _undo_ function to the controversial TLP:CLEAR tag was to introduce TLP:UN-CLEAR[^2]. However, soon it was noted that the introduction of TLP:UNCLEAR also had a couple of unexpected beneficial side-effects as well as alternative use-cases:
-
 
 
 * TLP:UNCLEAR helps with the introduction of more statistical methods such as “AI” and Deep Learning into the field of Cybersecurity. Without TLP:UNCLEAR, statistical statements on IoCs would not be possible (“is this IP address a C&C server or not?” -> TLP:UNCLEAR)
@@ -62,7 +60,6 @@ The following addendum is proposed to “FIRST Standards Definitions and Usage G
 
 E. <span style="color:blue; background: #000;">TLP:UNCLEAR</span> Community, Organization, Clients, and Recipients are all so confused what the appropriate disclosure level is, and if this or that indicator can or cannot be shared. Assumptions are rampant and the confusion is so high that a chi-square test might in fact be required to ensure the randomness of the mess before labelling this case TLP:UNCLEAR. 
 
-
 ### **4. Copyright**
 
 This document is subject to BCP 78 and the IETF Trust's Legal Provisions Relating to IETF Documents[^5] in effect on the date of publication of this document. Please review these documents carefully, as they describe your rights and restrictions with respect to this document. Code Components extracted from this document must include Revised BSD License text as described in Section 4.e of the Trust Legal Provisions and are provided without warranty as described in the Revised BSD License. The section doesn’t use TLP:UNCLEAR to make it clear for the copyleft statement. Ideally a copyleft rights the wrongs of a copyright, but not here.
@@ -76,6 +73,10 @@ This document is a collective work from the following persons in strictly undefi
 * Aaron Kaplan
 * Éireann Leverett
 * And many autoregressive language models were abused for the production of this document. They gave unclear answers of course….
+
+### **6. Contribution**
+
+This document can be updated by opening an pull-request on [https://github.com/adulau/tlp-unclear/](https://github.com/adulau/tlp-unclear/).
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
