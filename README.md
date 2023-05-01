@@ -76,7 +76,7 @@ This document is a collective work from the following persons in strictly undefi
 
 ### **6. Contribution**
 
-This document can be updated by opening an pull-request on [https://github.com/adulau/tlp-unclear/](https://github.com/adulau/tlp-unclear/).
+This document can be updated by opening a pull-request on [https://github.com/adulau/tlp-unclear/](https://github.com/adulau/tlp-unclear/).
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
